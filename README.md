@@ -24,15 +24,13 @@ You can use man to know more about hostname.
 - After finishing the task take screen shot of the script and the output after run the script.
 - Then upload the pictures to the forked repo and then create a pull request.
 
+ After every task write the command you used 
+ and the output you got in this README.md file
 
 Command: ` Command ` <br/>
 Output: -------------------
 
 
-
-
- After every task write the command you used 
- and the output you got in this README.md file
 
 
 **Always remember to use man command to explore the commands you are using!**
