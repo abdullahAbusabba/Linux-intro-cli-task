@@ -1,13 +1,10 @@
 # Linux-intro-cli-task
 
 
+## Tasks:
+
 -	Use Command ` whoami ` and figure out the output.
 You can use man to know more about whoami.
-
-Command: ` Command ` <br/>
-Output: -------------------
-
-
 -	Use Command ` hostname ` and figure out the output.
 You can use man to know more about hostname.
 -	Count how many words in any file in your system?
@@ -17,6 +14,22 @@ You can use man to know more about hostname.
 -	Get the data and time in Dubai using CLI?
 -	Store calendar output to a file called calender.txt
 -	Use this command echos “Oh there is an error” then save the error(output) if appears to file called logs.txt
+
+## Additional Challenge:
+
+- Use crontab to run a script that will save the output of the uptime each minute in script_log.txt.
+
+## Submission:
+
+- After finishing the task take screen shot of the script and the output after run the script.
+- Then upload the pictures to the forked repo and then create a pull request.
+
+
+Command: ` Command ` <br/>
+Output: -------------------
+
+
+
 
  After every task write the command you used 
  and the output you got in this README.md file
