@@ -17,7 +17,7 @@ You can use man to know more about hostname.
 
 ## Additional Challenge:
 
-- Use crontab to run a script that will save the output of the uptime each minute in script_log.txt.
+- A .
 
 ## Submission:
 
